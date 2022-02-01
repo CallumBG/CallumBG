@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CallumBG
 - 👀 I’m interested in software development and artificial intelligence
-- 🌱 I’m currently building upon my understanding of python, Java and C# with various personal projects
+- 🌱 I’m currently seeking a software development position
 - 📫 How to reach me: Email: callumbusuttilgoodfellow@gmail.com
 
 <!---
