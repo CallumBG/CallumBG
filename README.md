@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CallumBG
-- 👀 I’m interested in software development and artificial intelligence
+- 👀 I’m interested in software development particularly C#.NET development and artificial intelligence
 - 🌱 I’m currently seeking a software development position or similar
-- 📫 How to reach me: Email: callumbusuttilgoodfellow@gmail.com
+- 📫 How to reach me: Email: Callum.Busuttil00w@gmail.com
 
 <!---
 CallumBG/CallumBG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
